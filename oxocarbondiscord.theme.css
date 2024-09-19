@@ -18,11 +18,10 @@
   --textdarkest: 80, 80, 80;
   --font: gg sans;
   --backgroundaccent: 38, 38, 38;
-  --backgroundprimary: 22, 22, 22;
-  --backgroundsecondary: 27, 27, 27;
-  --backgroundsecondaryalt: 38, 38, 38;
+  --backgroundprimary: 27, 27, 27;
+  --backgroundsecondary: 22, 22, 22;
+  --backgroundsecondaryalt: 57, 57, 57;
   --backgroundtertiary: 22, 22, 22;
   --backgroundfloating: 57, 57, 57;
   --settingsicons: 1;
 }
-
